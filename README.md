@@ -44,6 +44,20 @@
   <img src="https://img.shields.io/badge/Project-Industry%20Ready-black?style=for-the-badge"/>
 </p>
 
+## 🎓 Certifications & Professional Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Mahindra-Cybersecurity%20Foundation-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>AWS Educate – Machine Learning Foundations</b><br/>
+  <b>Tata Group – GenAI Powered Data Analytics Job Simulation</b><br/>
+  <b>Tech Mahindra Foundation – Cybersecurity Program</b>
+</p>
+
 ---
 
 ## 👤 Author
