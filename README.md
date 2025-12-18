@@ -95,11 +95,11 @@
 
 <!-- Forage -->
 <p align="center">
-  <img height="60" src="https://avatars.githubusercontent.com/u/74042432?s=200&v=4"/>
+  <img src="images/logos/forage.png" alt="Forage Logo" height="80"/>
 </p>
 <p align="center">
   <b>Forage – Virtual Job Simulations</b><br/>
-  <i>AWS • Telstra • Skyscanner</i>
+  <i>AWS Solutions Architecture • Telstra Cybersecurity • Skyscanner Front-End</i>
 </p>
 
 
