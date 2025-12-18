@@ -3,25 +3,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=1000&lines=Face+Recognition+System;Powered+by+PCA+%26+Machine+Learning;ANN+%7C+SVM+%7C+KNN+Classification;Production-Grade+Academic+Project" />
 </p>
 
-<!-- Certification Style Badges -->
+<!-- WORKING Certification Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20Algorithms-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-purple?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML%20Algorithms-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Framework-OpenCV-orange?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Library-scikit--learn-yellow?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
   <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certification-Ready-Project-Academic%20%26%20Portfolio-Level-success?style=for-the-badge"/>
 </p>
 
 <!-- Official Technology Logos -->
 <p align="center">
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 <hr/>
+
 
 
 ---
