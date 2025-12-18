@@ -31,7 +31,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professional+Certifications+%26+Job+Simulations;Industry+Recognized+Learning+Experience" />
 </p>
 
-## 👤 Author
+                                                       ## 👤 Author
 
 <p align="center">
   🎓 <b>B.Tech in Computer Science Engineering</b><br/>
