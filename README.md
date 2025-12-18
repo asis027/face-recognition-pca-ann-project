@@ -44,88 +44,7 @@
 
 <hr/>
 
-<!-- Animated Certifications Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=950&lines=Verified+Certifications+%26+Job+Simulations;Industry-Recognized+Professional+Learning" />
-</p>
 
----
-
-## 🎓 Certifications & Job Simulations
-
-<!-- Row 1: AWS -->
-<p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
-</p>
-
-<p align="center">
-  <b>AWS Educate – Introduction to Generative AI</b><br/>
-  <b>AWS Educate – Machine Learning Foundations</b><br/>
-  <i>Amazon Web Services (AWS)</i>
-</p>
-
----
-
-<!-- Tata Group -->
-<p align="center">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Tata_logo.png"/>
-</p>
-<p align="center">
-  <b>Tata Group – GenAI Powered Data Analytics</b><br/>
-  <i>Forage Job Simulation</i>
-</p>
-
-<p align="center">
-  <b>Tata Group – GenAI Powered Data Analytics</b><br/>
-  <i>Forage Job Simulation</i>
-</p>
-
----
-
-<!-- Row 3: Tech Mahindra -->
-<p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tech_Mahindra_New_Logo.svg"/>
-</p>
-
-<p align="center">
-  <b>Tech Mahindra Foundation – Cybersecurity Program</b>
-</p>
-
----
-
-<!-- Forage -->
-<p align="center">
-  <img src="images/logos/forage.png" alt="Forage Logo" height="80"/>
-</p>
-<p align="center">
-  <b>Forage – Virtual Job Simulations</b><br/>
-  <i>AWS Solutions Architecture • Telstra Cybersecurity • Skyscanner Front-End</i>
-</p>
-
-
----
-
-<!-- Row 5: Microsoft -->
-<p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"/>
-</p>
-
-<p align="center">
-  <b>Microsoft – Excel Fundamentals</b>
-</p>
-
----
-
-<!-- Row 6: LinkedIn -->
-<p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
-</p>
-
-<p align="center">
-  <b>LinkedIn Learning – Business Analysis</b>
-</p>
-
----
 
 > ✅ All certifications and simulations are **personally earned and verifiable via LinkedIn**.
 
@@ -141,8 +60,6 @@
 - **Artificial Intelligence Internship – iStudio**  
 - **Microsoft Excel – Fundamentals**  
 - **Web Design & Development – Skill India Digital Hub**  
-
-> ✅ All certifications are **personally earned and verifiable via LinkedIn**.
 
 ---
 
