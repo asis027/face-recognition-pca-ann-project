@@ -31,6 +31,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professional+Certifications+%26+Job+Simulations;Industry+Recognized+Learning+Experience" />
 </p>
 
+## 👤 Author
+
+<p align="center">
+  🎓 <b>B.Tech in Computer Science Engineering</b><br/>
+  🤖 <b>AI & Machine Learning Intern</b><br/>
+  📍 Bhubaneswar, Odisha, India<br/><br/>
+  📧 <a href="mailto:journeywithasis@gmail.com"><b>journeywithasis@gmail.com</b></a><br/>
+  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn</b></a> |
+  🐙 <a href="https://github.com/asis027"><b>GitHub</b></a>
+</p>
+
+<hr/>
 ---
 
 ## 🎓 Certifications & Job Simulations (Verified)
