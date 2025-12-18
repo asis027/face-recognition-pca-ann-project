@@ -139,7 +139,7 @@ Machine Learning Classifier
 (ANN / SVM / KNN)
 -
 Recognized Person
-or
+-
 Unknown Face
 
 
