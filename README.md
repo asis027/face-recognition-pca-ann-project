@@ -26,38 +26,34 @@
 
 
 ---
-<!-- Animated Author Identity -->
+<!-- Author Name (Bold Black) -->
+<h1 align="center" style="color:black;">
+  <b>Ashribad Behera</b>
+</h1>
+
+<!-- Animated Professional Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=30&duration=2800&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Project+Author+%26+Maintainer;Ashribad+Behera;AI+%26+Machine+Learning+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Project+Author+%26+Maintainer;AI+%26+Machine+Learning+Developer;Computer+Vision+%7C+Face+Recognition" />
 </p>
 
-<!-- Verified Professional Badges -->
+<!-- Creative Modern Tech Badges (No Icons Row) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20%26%20ML%20Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Specialization-Face%20Recognition%20%7C%20Computer%20Vision-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Industry%20Ready%20Project-success?style=for-the-badge"/>
-</p>
-
-<!-- Verified Technology Logos -->
-<p align="center">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img src="https://img.shields.io/badge/Language-Python-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Computer%20Vision-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-Industry%20Ready-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👤 **Author**
+## 👤 Author
 
 <p align="center">
-  <b style="font-size:18px;">Ashribad Behera</b><br/><br/>
   🎓 <b>B.Tech in Computer Science Engineering</b><br/>
   🤖 <b>AI & Machine Learning Intern</b><br/>
   📍 Bhubaneswar, Odisha, India<br/><br/>
   📧 <a href="mailto:journeywithasis@gmail.com"><b>journeywithasis@gmail.com</b></a><br/>
-  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn (Verified)</b></a> |
+  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn</b></a> |
   🐙 <a href="https://github.com/asis027"><b>GitHub</b></a>
 </p>
 
