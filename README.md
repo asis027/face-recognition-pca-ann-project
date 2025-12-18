@@ -1,18 +1,33 @@
+<!-- Animated Professional Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Face+Recognition+System;Using+PCA+%2B+ANN+%2F+SVM+%2F+KNN;Machine+Learning+Project" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=1000&lines=Face+Recognition+System;Powered+by+PCA+%26+Machine+Learning;ANN+%7C+SVM+%7C+KNN+Classification;Production-Grade+Academic+Project" />
 </p>
 
+<!-- Certification Style Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML%20Algorithms-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-purple?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-OpenCV-orange?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certification-Ready-Project-Academic%20%26%20Portfolio-Level-success?style=for-the-badge"/>
 </p>
+
+<!-- Official Technology Logos -->
+<p align="center">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+<hr/>
+
 
 ---
 
 ## 👤 Author
-- **Name:** Asis Behera  
+- **Name:** Ashribad Behera  
 - **GitHub:** [asis027](https://github.com/asis027)
 
 ---
@@ -55,5 +70,57 @@ The system is designed to be **efficient, accurate, and explainable**, making it
 
 ---
 
-## 🏗️ System Architecture
+ 
+
+ 
+
+## 📌 **Project Description**
+
+This project implements a **Face Recognition System** using **classical Machine Learning techniques**.  
+Instead of deep learning, it focuses on **explainable and efficient algorithms**, making it ideal for:
+
+🎓 Academic projects  
+💼 Resume & portfolio  
+🧪 Machine Learning fundamentals  
+
+---
+
+## 🧠 **How the Project Works (Simple Explanation)**
+
+1️⃣ A face image is taken as input  
+2️⃣ Image is converted to grayscale and resized  
+3️⃣ **PCA (Principal Component Analysis)** extracts important facial features called **Eigenfaces**  
+4️⃣ The reduced feature vector is passed to a classifier  
+5️⃣ Classifier predicts the identity or marks it as **Unknown**
+
+---
+
+## ⚙️ **Algorithms Used**
+
+### 🔹 Principal Component Analysis (PCA)
+- Reduces image dimensionality  
+- Removes redundant information  
+- Improves speed and accuracy  
+
+### 🔹 Classifiers
+- **ANN (Artificial Neural Network):** Learns complex patterns  
+- **SVM (Support Vector Machine):** Works well on small datasets  
+- **KNN (K-Nearest Neighbors):** Simple distance-based approach  
+
+---
+
+## ✨ **Key Features**
+
+✅ PCA-based Eigenface extraction  
+✅ Multiple classifiers (ANN / SVM / KNN)  
+✅ Unknown face detection using confidence threshold  
+✅ Clean modular Python code  
+✅ Train–test split for evaluation  
+✅ Confusion matrix & performance metrics  
+✅ Eigenfaces visualization  
+✅ Production-ready GitHub structure  
+
+---
+
+## 🏗️ **System Architecture**
 
