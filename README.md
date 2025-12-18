@@ -26,28 +26,42 @@
 
 
 ---
-
-<!-- Animated Author Title -->
+<!-- Animated Author Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=26&duration=2500&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Author+%26+Project+Maintainer;Ashribad+Behera" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=30&duration=2800&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Project+Author+%26+Maintainer;Ashribad+Behera;AI+%26+Machine+Learning+Developer" />
 </p>
 
-<!-- Role Badges -->
+<!-- Verified Professional Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Machine%20Learning%20Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Face%20Recognition%20%7C%20Computer%20Vision-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-AI%20%26%20ML%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialization-Face%20Recognition%20%7C%20Computer%20Vision-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Industry%20Ready%20Project-success?style=for-the-badge"/>
 </p>
 
-<!-- Contact & Social -->
+<!-- Verified Technology Logos -->
 <p align="center">
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"/>
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+---
+
+## 👤 **Author**
+
+<p align="center">
+  <b style="font-size:18px;">Ashribad Behera</b><br/><br/>
+  🎓 <b>B.Tech in Computer Science Engineering</b><br/>
+  🤖 <b>AI & Machine Learning Intern</b><br/>
+  📍 Bhubaneswar, Odisha, India<br/><br/>
   📧 <a href="mailto:journeywithasis@gmail.com"><b>journeywithasis@gmail.com</b></a><br/>
-  📞 <b>+91 9337935187</b><br/>
-  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn</b></a> |
+  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn (Verified)</b></a> |
   🐙 <a href="https://github.com/asis027"><b>GitHub</b></a>
 </p>
 
 <hr/>
-
 
 ---
 
