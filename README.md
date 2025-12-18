@@ -44,26 +44,86 @@
 
 <hr/>
 
-## 🎓 Certifications & Job Simulations 
+<!-- Animated Certifications Title -->
 <p align="center">
-  <!-- AWS Educate -->
-  <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=950&lines=Verified+Certifications+%26+Job+Simulations;Industry-Recognized+Professional+Learning" />
+</p>
+
+---
+
+## 🎓 Certifications & Job Simulations
+
+<!-- Row 1: AWS -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 </p>
 
 <p align="center">
-  <!-- Microsoft -->
-  <img src="https://img.s
+  <b>AWS Educate – Introduction to Generative AI</b><br/>
+  <b>AWS Educate – Machine Learning Foundations</b><br/>
+  <i>Amazon Web Services (AWS)</i>
+</p>
 
+---
+
+<!-- Row 2: Tata -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tata_logo.svg"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Mahindra-Cybersecurity%20Foundation-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forage-AI%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft-Excel%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <b>Tata Group – GenAI Powered Data Analytics</b><br/>
+  <i>Forage Job Simulation</i>
 </p>
+
+---
+
+<!-- Row 3: Tech Mahindra -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tech_Mahindra_New_Logo.svg"/>
+</p>
+
+<p align="center">
+  <b>Tech Mahindra Foundation – Cybersecurity Program</b>
+</p>
+
+---
+
+<!-- Row 4: Forage -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Forage_logo.svg"/>
+</p>
+
+<p align="center">
+  <b>Forage Job Simulations</b><br/>
+  <i>AWS Solutions Architecture • Telstra Cybersecurity • Skyscanner Front-End</i>
+</p>
+
+---
+
+<!-- Row 5: Microsoft -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"/>
+</p>
+
+<p align="center">
+  <b>Microsoft – Excel Fundamentals</b>
+</p>
+
+---
+
+<!-- Row 6: LinkedIn -->
+<p align="center">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
+</p>
+
+<p align="center">
+  <b>LinkedIn Learning – Business Analysis</b>
+</p>
+
+---
+
+> ✅ All certifications and simulations are **personally earned and verifiable via LinkedIn**.
 
 ### 📜 Certification Details
 
