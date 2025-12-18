@@ -46,7 +46,7 @@
 ---
 
 ## 🎓 Certifications & Job Simulations (Verified)
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/Tech%20Mahindra-Cybersecurity%20Foundation-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forage-AI%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft-Excel%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Business%20Analysis-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 ---
 
@@ -70,7 +69,6 @@
 - **Artificial Intelligence Internship – iStudio**  
 - **Microsoft Excel – Fundamentals**  
 - **Web Design & Development – Skill India Digital Hub**  
-- **Business Analysis – LinkedIn Learning**
 
 > ✅ All certifications are **personally earned and verifiable via LinkedIn**.
 
