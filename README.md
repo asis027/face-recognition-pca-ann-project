@@ -130,21 +130,7 @@ Input Face Image
   <img src="system_architecture.png" alt="System Architecture Diagram" width="800"/>
 </p>
 
--
-(Image Preprocessing
-(Grayscale Conversion & Resizing)
--
-PCA (Principal Component Analysis)
-Eigenface Feature Extraction)
--
-(Feature Vector Representation)
--
-Machine Learning Classifier
-(ANN / SVM / KNN)
--
-(Recognized Person OR
-Unknown Face)
--
+
 
 
 ### 🔍 Explanation
