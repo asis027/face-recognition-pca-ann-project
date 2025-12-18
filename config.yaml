@@ -1,0 +1,9 @@
+dataset:
+  image_size: 64
+  test_split: 0.2
+
+pca:
+  n_components: 50
+
+classifier:
+  type: mlp   # mlp | svm | knn
