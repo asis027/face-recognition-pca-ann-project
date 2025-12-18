@@ -44,23 +44,6 @@
 
 <hr/>
 
-
-
-> ✅ All certifications and simulations are **personally earned and verifiable via LinkedIn**.
-
-### 📜 Certification Details
-
-- **AWS Educate – Introduction to Generative AI**  
-- **AWS Educate – Machine Learning Foundations**  
-- **AWS – Solutions Architecture Job Simulation (Forage)**  
-- **Tata Group – GenAI Powered Data Analytics Job Simulation (Forage)**  
-- **Tech Mahindra Foundation – Cybersecurity Program**  
-- **Telstra – Cybersecurity Job Simulation (Forage)**  
-- **Skyscanner – Front-End Software Engineering Job Simulation (Forage)**  
-- **Artificial Intelligence Internship – iStudio**  
-- **Microsoft Excel – Fundamentals**  
-- **Web Design & Development – Skill India Digital Hub**  
-
 ---
 
 ## 📌 Project Overview
