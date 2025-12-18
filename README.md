@@ -124,4 +124,29 @@ Instead of deep learning, it focuses on **explainable and efficient algorithms**
 ---
 
 ## 🏗️ **System Architecture**
+The system architecture describes the complete workflow of the face recognition process, from image input to final prediction.
+Input Face Image
+↓
+Image Preprocessing
+(Grayscale Conversion & Resizing)
+↓
+PCA (Principal Component Analysis)
+Eigenface Feature Extraction
+↓
+Feature Vector Representation
+↓
+Machine Learning Classifier
+(ANN / SVM / KNN)
+↓
+Recognized Person
+or
+Unknown Face
 
+
+### 🔍 Explanation
+- **Input Face Image:** The system takes a facial image as input.
+- **Preprocessing:** Image is converted to grayscale and resized for consistency.
+- **PCA (Eigenfaces):** Important facial features are extracted while reducing dimensionality.
+- **Feature Vector:** The reduced representation of the face image.
+- **Classifier:** ANN, SVM, or KNN predicts the identity.
+- **Output:** The person is recognized or marked as unknown using a confidence threshold.
