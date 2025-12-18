@@ -52,9 +52,6 @@
   <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tech%20Mahindra-Cybersecurity%20Foundation-purple?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Forage-AI%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft-Excel%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/LinkedIn-Business%20Analysis-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
