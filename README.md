@@ -43,7 +43,6 @@
 </p>
 
 <hr/>
----
 
 ## 🎓 Certifications & Job Simulations (Verified)
 
@@ -55,7 +54,6 @@
   <img src="https://img.shields.io/badge/Forage-AI%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft-Excel%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
----
 
 ### 📜 Certification Details
 
