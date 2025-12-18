@@ -66,9 +66,13 @@
 
 ---
 
-<!-- Row 2: Tata -->
+<!-- Tata Group -->
 <p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tata_logo.svg"/>
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Tata_logo.png"/>
+</p>
+<p align="center">
+  <b>Tata Group – GenAI Powered Data Analytics</b><br/>
+  <i>Forage Job Simulation</i>
 </p>
 
 <p align="center">
@@ -89,15 +93,15 @@
 
 ---
 
-<!-- Row 4: Forage -->
+<!-- Forage -->
 <p align="center">
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Forage_logo.svg"/>
+  <img height="60" src="https://avatars.githubusercontent.com/u/74042432?s=200&v=4"/>
+</p>
+<p align="center">
+  <b>Forage – Virtual Job Simulations</b><br/>
+  <i>AWS • Telstra • Skyscanner</i>
 </p>
 
-<p align="center">
-  <b>Forage Job Simulations</b><br/>
-  <i>AWS Solutions Architecture • Telstra Cybersecurity • Skyscanner Front-End</i>
-</p>
 
 ---
 
