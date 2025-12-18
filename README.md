@@ -26,38 +26,45 @@
 
 
 ---
-<!-- Author Name (Bold Black) -->
-<h1 align="center" style="color:black;">
-  <b>Ashribad Behera</b>
-</h1>
-
-<!-- Animated Professional Identity -->
+<!-- Animated Certifications Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Project+Author+%26+Maintainer;AI+%26+Machine+Learning+Developer;Computer+Vision+%7C+Face+Recognition" />
-</p>
-
-<!-- Creative Modern Tech Badges (No Icons Row) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Computer%20Vision-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML-PCA%20%7C%20ANN%20%7C%20SVM%20%7C%20KNN-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-Industry%20Ready-black?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professional+Certifications+%26+Job+Simulations;Industry+Recognized+Learning+Experience" />
 </p>
 
 ---
 
-## 👤 Author
+## 🎓 Certifications & Job Simulations (Verified)
 
 <p align="center">
-  🎓 <b>B.Tech in Computer Science Engineering</b><br/>
-  🤖 <b>AI & Machine Learning Intern</b><br/>
-  📍 Bhubaneswar, Odisha, India<br/><br/>
-  📧 <a href="mailto:journeywithasis@gmail.com"><b>journeywithasis@gmail.com</b></a><br/>
-  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn</b></a> |
-  🐙 <a href="https://github.com/asis027"><b>GitHub</b></a>
+  <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Mahindra-Cybersecurity%20Foundation-purple?style=for-the-badge"/>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Forage-AI%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft-Excel%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Business%20Analysis-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+---
+
+### 📜 Certification Details
+
+- **AWS Educate – Introduction to Generative AI**  
+- **AWS Educate – Machine Learning Foundations**  
+- **AWS – Solutions Architecture Job Simulation (Forage)**  
+- **Tata Group – GenAI Powered Data Analytics Job Simulation (Forage)**  
+- **Tech Mahindra Foundation – Cybersecurity Program**  
+- **Telstra – Cybersecurity Job Simulation (Forage)**  
+- **Skyscanner – Front-End Software Engineering Job Simulation (Forage)**  
+- **Artificial Intelligence Internship – iStudio**  
+- **Microsoft Excel – Fundamentals**  
+- **Web Design & Development – Skill India Digital Hub**  
+- **Business Analysis – LinkedIn Learning**
+
+> ✅ All certifications are **personally earned and verifiable via LinkedIn**.
 
 ---
 
