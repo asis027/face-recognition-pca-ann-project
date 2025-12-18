@@ -44,7 +44,17 @@
 
 <hr/>
 
-## 🎓 Certifications & Job Simulations (Verified)
+## 🎓 Certifications & Job Simulations 
+<p align="center">
+  <!-- AWS Educate -->
+  <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Educate-Machine%20Learning%20Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Microsoft -->
+  <img src="https://img.s
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Educate-Generative%20AI-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
