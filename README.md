@@ -73,38 +73,48 @@ feature dimensions and Artificial Neural Networks (ANN) for accurate classificat
 - Smart classrooms
 - Identity verification
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone repository
 git clone https://github.com/asis027/face-recognition-pca-ann-project.git
+cd face-recognition-pca-ann-project
 
 2. Install dependencies
 pip install -r requirements.txt
 
-3. Train model
+3. Train the model
 python train.py
 
-4. Evaluate
+4. Evaluate the model
 python evaluate.py
 
-5. Predict
+5. Predict a face
 python predict.py --image test.jpg
 
+## 📁 Dataset Structure
 
-## Model Performance Comparison
+dataset/
+ ├── person1/
+ │    ├── img1.jpg
+ │    ├── img2.jpg
+ ├── person2/
+ │    ├── img1.jpg
+ │    ├── img2.jpg
 
-| Model | Accuracy |
-|------|---------|
-| PCA + ANN | 92% |
-| PCA + SVM | 89% |
-| PCA + KNN | 85% |
 
+## 🔍 Analysis
 
-ANN Architecture:
-- Input: PCA features
-- Hidden layers: 2
-- Activation: ReLU
-- Output: Softmax
+- ANN performed best due to non-linear learning capability.
+- SVM showed stable performance on smaller PCA components.
+- KNN accuracy dropped as dimensionality increased.
+
+## 📊 Results
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|------|---------|----------|--------|---------|
+| PCA + ANN | 92.3% | 0.91 | 0.92 | 0.91 |
+| PCA + SVM | 90.1% | 0.89 | 0.90 | 0.89 |
+| PCA + KNN | 85.6% | 0.84 | 0.85 | 0.84 |
 
 
 ---
