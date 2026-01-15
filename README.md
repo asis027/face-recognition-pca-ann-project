@@ -56,6 +56,57 @@ This project implements a **Face Recognition System** using **Principal Componen
 
 The system is designed to be **efficient, accurate, and explainable**, making it ideal for **academic use, portfolios, and real-world prototypes**.
 
+## Problem Statement
+Traditional face recognition systems suffer from high dimensionality and computational cost.
+This project addresses these challenges by using Principal Component Analysis (PCA) to reduce
+feature dimensions and Artificial Neural Networks (ANN) for accurate classification.
+
+## Why PCA + ANN?
+- PCA reduces noise and redundancy in face images
+- ANN learns non-linear decision boundaries
+- Combination improves accuracy with low computation
+
+## Applications
+- Attendance systems
+- Access control & security
+- Surveillance systems
+- Smart classrooms
+- Identity verification
+
+## How to Run
+
+1. Clone repository
+git clone https://github.com/asis027/face-recognition-pca-ann-project.git
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Train model
+python train.py
+
+4. Evaluate
+python evaluate.py
+
+5. Predict
+python predict.py --image test.jpg
+
+
+## Model Performance Comparison
+
+| Model | Accuracy |
+|------|---------|
+| PCA + ANN | 92% |
+| PCA + SVM | 89% |
+| PCA + KNN | 85% |
+
+
+ANN Architecture:
+- Input: PCA features
+- Hidden layers: 2
+- Activation: ReLU
+- Output: Softmax
+
+
 ---
 
 ## ✨ Key Features
